@@ -1,0 +1,2822 @@
+[
+  {
+    "btc": "BTC to BSV",
+    "eth": "ETH to STETH",
+    "usdt": "USDT to ETH",
+    "xrp": "XRP to DAI",
+    "doge": "DOGE to BTC",
+    "ltc": "LTC to BTC",
+    "xmr": "XMR to AVAX",
+    "usdc": "USDC to DOGE",
+    "phb": "PHB to WIN",
+    "luna": "LUNA to BTC",
+    "dgb": "DGB to ONT",
+    "ngc": "NGC to PORTO",
+    "trx": "TRX to BTC",
+    "nano": "NANO to RVN",
+    "dash": "DASH to USDT",
+    "vet": "VET to XMR",
+    "aion": "AION to FLOW",
+    "hnt": "HNT to USDT",
+    "hex": "HEX to ETH",
+    "xtz": "XTZ to TRX",
+    "xlm": "XLM to CSPR",
+    "snm": "SNM to BRD",
+    "sol": "SOL to USDC",
+    "bch": "BCH to BTC",
+    "egld": "EGLD to ATOM",
+    "cake": "CAKE to WPR",
+    "ht": "HT to CFI",
+    "btt": "BTT to TRX",
+    "theta": "THETA to ETH",
+    "one": "ONE to XMR",
+    "gusd": "GUSD to BTC",
+    "zec": "ZEC to XMR",
+    "sfp": "SFP to ERG",
+    "psg": "PSG to VRA",
+    "rvn": "RVN to BIT",
+    "etc": "ETC to SOL",
+    "shib": "SHIB to BTC",
+    "erg": "ERG to BSV",
+    "ark": "ARK to BTC",
+    "gno": "GNO to BTC",
+    "ada": "ADA to SOL",
+    "mana": "MANA to XRP",
+    "busd": "BUSD to USDT",
+    "iotx": "IOTX to BUSD",
+    "nim": "NIM to BTC",
+    "smart": "SMART to BTC",
+    "mith": "MITH to BTC",
+    "uni": "UNI to XMR",
+    "1inch": "1INCH to USDT",
+    "powr": "POWR to BTC",
+    "sc": "SC to USDC",
+    "babydoge": "BABYDOGE to USDT",
+    "matic": "MATIC to BTC",
+    "xch": "XCH to BTC",
+    "cro": "CRO to TRX",
+    "atom": "ATOM to ETH",
+    "awc": "AWC to TRX",
+    "bnt": "BNT to BTRST",
+    "lrc": "LRC to RLC",
+    "twt": "TWT to BTC",
+    "avax": "AVAX to ETH",
+    "bsv": "BSV to BTC",
+    "xno": "XNO to TRX",
+    "dag": "DAG to BTC",
+    "paxg": "PAXG to ETH",
+    "vtc": "VTC to ETH",
+    "loom": "LOOM to BTC",
+    "bcd": "BCD to BTC",
+    "nxt": "NXT to ARDR",
+    "rune": "RUNE to LTC",
+    "zcl": "ZCL to LUN",
+    "hive": "HIVE to BTC",
+    "glmr": "GLMR to KSM",
+    "firo": "FIRO to TWT",
+    "dot": "DOT to BTC",
+    "xec": "XEC to USDC",
+    "ape": "APE to LTC",
+    "klay": "KLAY to USDT",
+    "brise": "BRISE to ETH",
+    "zil": "ZIL to XMR",
+    "dai": "DAI to MANA",
+    "wbtc": "WBTC to BTC",
+    "nebl": "NEBL to USDT",
+    "okb": "OKB to BCH",
+    "ftt": "FTT to GRT",
+    "dcr": "DCR to USDT",
+    "yfi": "YFI to STC",
+    "aca": "ACA to GLMR",
+    "adx": "ADX to BTC",
+    "btcb": "BTCB to BTC",
+    "kda": "KDA to LTC",
+    "flux": "FLUX to BTC",
+    "axs": "AXS to SLP",
+    "shinja": "SHINJA to ETH",
+    "mx": "MX to USDT",
+    "lunc": "LUNC to USDT",
+    "algo": "ALGO to BTC",
+    "elf": "ELF to ADX",
+    "steem": "STEEM to BTC",
+    "grt": "GRT to BTC",
+    "gt": "GT to VRA",
+    "req": "REQ to ETH",
+    "sun": "SUN to OKB",
+    "bnbbep20": "BNBBEP20 to USDT",
+    "steth": "STETH to ETH",
+    "ethw": "ETHW to ETH",
+    "waxp": "WAXP to ETH",
+    "xvg": "XVG to ETH",
+    "celo": "CELO to USDT",
+    "ustc": "USTC to LUNC",
+    "sand": "SAND to APE",
+    "kava": "KAVA to BTC",
+    "xyo": "XYO to BTT",
+    "kin": "KIN to BAL",
+    "sys": "SYS to BTC",
+    "etn": "ETN to BTC",
+    "ardr": "ARDR to CFX",
+    "arrr": "ARRR to BTC",
+    "eos": "EOS to BTC",
+    "vlx": "VLX to ETH",
+    "fet": "FET to BEAM",
+    "nav": "NAV to GT",
+    "knc": "KNC to USDC",
+    "strax": "STRAX to USDC",
+    "rcn": "RCN to FIRO",
+    "xvs": "XVS to FIO",
+    "fio": "FIO to FIRO",
+    "ogn": "OGN to BTC",
+    "edg": "EDG to ATL",
+    "wise": "WISE to USDT",
+    "stx": "STX to BTC",
+    "tusd": "TUSD to BTC",
+    "keanu": "KEANU to XMR",
+    "rdd": "RDD to XMR",
+    "op": "OP to USDT",
+    "ubt": "UBT to ETH",
+    "bttc": "BTTC to WOO",
+    "anc": "ANC to TWT",
+    "gala": "GALA to TRX",
+    "mdx": "MDX to LTC",
+    "aave": "AAVE to DAI",
+    "ldo": "LDO to ETH",
+    "hbtc": "HBTC to XAUT",
+    "near": "NEAR to SOL",
+    "ohm": "OHM to USDT",
+    "nexo": "NEXO to ETH",
+    "kishu": "KISHU to ETH",
+    "rose": "ROSE to ETH",
+    "amp": "AMP to BTC",
+    "poa": "POA to SOC",
+    "vib": "VIB to USDT",
+    "rfr": "RFR to GRT",
+    "lsk": "LSK to BTC",
+    "kcs": "KCS to ETH",
+    "lpt": "LPT to ETH",
+    "vra": "VRA to ETH",
+    "icp": "ICP to ETH",
+    "neo": "NEO to USDT",
+    "blocks": "BLOCKS to ETH",
+    "beam": "BEAM to XMR",
+    "xhv": "XHV to USDT",
+    "floki": "FLOKI to BTC",
+    "api3": "API3 to BTC",
+    "vgx": "VGX to USDT",
+    "ens": "ENS to TRX",
+    "btu": "BTU to PAX",
+    "aurora": "AURORA to CFX",
+    "blok": "BLOK to ETH",
+    "gnx": "GNX to BTC",
+    "iost": "IOST to BTCST",
+    "cel": "CEL to BTC",
+    "nkn": "NKN to DGD",
+    "wrx": "WRX to TUSD",
+    "ghst": "GHST to SUPER",
+    "crv": "CRV to XRP",
+    "leo": "LEO to ERG",
+    "juv": "JUV to ALICE",
+    "ont": "ONT to LUNA",
+    "idrt": "IDRT to NGC",
+    "bal": "BAL to MKR",
+    "snt": "SNT to MOVR",
+    "tel": "TEL to BTC",
+    "ckb": "CKB to HBAR",
+    "nrg": "NRG to ATL",
+    "amb": "AMB to BTC",
+    "vidt": "VIDT to EFI",
+    "brd": "BRD to BTC",
+    "sub": "SUB to BETA",
+    "wxt": "WXT to LTC",
+    "omg": "OMG to CRV",
+    "hbar": "HBAR to USDT",
+    "ocean": "OCEAN to ETH",
+    "cult": "CULT to ETH",
+    "klv": "KLV to TRX",
+    "trtl": "TRTL to BTC",
+    "elon": "ELON to AVAX",
+    "btcst": "BTCST to USDT",
+    "wing": "WING to FORTH",
+    "dnt": "DNT to TRX",
+    "mph": "MPH to VOLT",
+    "link": "LINK to VIDT",
+    "hbd": "HBD to USDT",
+    "joe": "JOE to ETH",
+    "hokk": "HOKK to SFP",
+    "cudos": "CUDOS to ETH",
+    "weth": "WETH to ETH",
+    "iota": "IOTA to BTC",
+    "rsr": "RSR to BUSD",
+    "movr": "MOVR to ETH",
+    "cspr": "CSPR to ETH",
+    "hc": "HC to BTC",
+    "ant": "ANT to AVAX",
+    "hoge": "HOGE to ETH",
+    "snx": "SNX to USDC",
+    "ppc": "PPC to BTC",
+    "aoa": "AOA to CUBE",
+    "dao": "DAO to ETH",
+    "astr": "ASTR to ETH",
+    "srm": "SRM to ETH",
+    "vision": "VISION to BTC",
+    "copi": "COPI to ADA",
+    "celr": "CELR to CELT",
+    "ankr": "ANKR to ETH",
+    "spi": "SPI to KCS",
+    "cvc": "CVC to BTC",
+    "bnx": "BNX to BAT",
+    "abyss": "ABYSS to ETH",
+    "cyber": "CYBER to ETH",
+    "unibot": "UNIBOT to STX",
+    "rari": "RARI to ETH",
+    "gmee": "GMEE to MATIC",
+    "fuse": "FUSE to USDT",
+    "volt": "VOLT to ETH",
+    "ycc": "YCC to ETH",
+    "mob": "MOB to HNT",
+    "banana": "BANANA to TRX",
+    "ltx": "LTX to TRX",
+    "sky": "SKY to BTC",
+    "sfmbsc": "SFMBSC to ETH",
+    "ctxc": "CTXC to BTC",
+    "htr": "HTR to BTC",
+    "loka": "LOKA to ETH",
+    "ar": "AR to BTC",
+    "pit": "PIT to TRX",
+    "df": "DF to XEC",
+    "pundix": "PUNDIX to ETH",
+    "jst": "JST to USDT",
+    "bin": "BIN to TRX",
+    "arv": "ARV to USDT",
+    "xdb": "XDB to ETH",
+    "poodl": "POODL to ETH",
+    "btg": "BTG to BTC",
+    "arpa": "ARPA to ETH",
+    "enj": "ENJ to BTC",
+    "raca": "RACA to USDT",
+    "audio": "AUDIO to USDT",
+    "voxel": "VOXEL to ETH",
+    "slp": "SLP to XRP",
+    "sfuel": "SFUEL to BTC",
+    "bolt": "BOLT to SOL",
+    "pivx": "PIVX to USDT",
+    "gst": "GST to SHIB",
+    "tko": "TKO to TRX",
+    "dobo": "DOBO to BTC",
+    "gsc": "GSC to NAFT",
+    "atri": "ATRI to TT",
+    "tomo": "TOMO to DOGE",
+    "flow": "FLOW to TRX",
+    "imx": "IMX to XMR",
+    "zen": "ZEN to BTC",
+    "bake": "BAKE to TRX",
+    "chsb": "CHSB to EGLD",
+    "og": "OG to ETH",
+    "xdc": "XDC to ETH",
+    "starl": "STARL to TRX",
+    "tfuel": "TFUEL to ETH",
+    "fun": "FUN to LTC",
+    "sanshu": "SANSHU to BTC",
+    "xprt": "XPRT to USDT",
+    "shr": "SHR to USDT",
+    "ong": "ONG to ONT",
+    "yfii": "YFII to XMR",
+    "bico": "BICO to HT",
+    "ewt": "EWT to USDT",
+    "lazio": "LAZIO to BTC",
+    "cnd": "CND to USDT",
+    "nix": "NIX to LTC",
+    "gnt": "GNT to RNDR",
+    "ava": "AVA to USDC",
+    "akro": "AKRO to RDN",
+    "oxt": "OXT to CAKE",
+    "btm": "BTM to BTC",
+    "rpl": "RPL to LEO",
+    "vtho": "VTHO to VET",
+    "mtl": "MTL to USDT",
+    "orn": "ORN to PUNDIX",
+    "bat": "BAT to THETA",
+    "sushi": "SUSHI to BADGER",
+    "she": "SHE to ELON",
+    "reef": "REEF to T",
+    "can": "CAN to LTC",
+    "dlt": "DLT to BTC",
+    "blz": "BLZ to USDC",
+    "lgcy": "LGCY to LRC",
+    "atl": "ATL to XYM",
+    "sngls": "SNGLS to HBTC",
+    "mft": "MFT to GALA",
+    "stc": "STC to TT",
+    "oax": "OAX to SUSHI",
+    "roobee": "ROOBEE to ETH",
+    "arb": "ARB to DASH",
+    "ksm": "KSM to USDT",
+    "xem": "XEM to SMART",
+    "cmt": "CMT to USDC",
+    "qkc": "QKC to USDT",
+    "dgtx": "DGTX to CITY",
+    "fida": "FIDA to BTC",
+    "dent": "DENT to BTC"
+  },
+  {
+    "btc": "BTC to USDT",
+    "eth": "ETH to MONONOKE",
+    "usdt": "USDT to BTC",
+    "xrp": "XRP to ATOM",
+    "doge": "DOGE to ERG",
+    "ltc": "LTC to BSV",
+    "xmr": "XMR to ETH",
+    "usdc": "USDC to XLM",
+    "phb": "PHB to CCD",
+    "luna": "LUNA to ETH",
+    "dgb": "DGB to TRX",
+    "ngc": "NGC to BCD",
+    "trx": "TRX to SAITAMA",
+    "nano": "NANO to BCH",
+    "dash": "DASH to XMR",
+    "vet": "VET to BTC",
+    "aion": "AION to LINK",
+    "hnt": "HNT to ETH",
+    "hex": "HEX to USDT",
+    "xtz": "XTZ to LTC",
+    "xlm": "XLM to USDT",
+    "snm": "SNM to BTC",
+    "sol": "SOL to ETH",
+    "bch": "BCH to XMR",
+    "egld": "EGLD to BTC",
+    "cake": "CAKE to TOMO",
+    "ht": "HT to SWEAT",
+    "btt": "BTT to ETH",
+    "theta": "THETA to USDT",
+    "one": "ONE to TRX",
+    "gusd": "GUSD to ETH",
+    "zec": "ZEC to BTC",
+    "sfp": "SFP to ALGO",
+    "psg": "PSG to VLX",
+    "rvn": "RVN to TRX",
+    "etc": "ETC to ADA",
+    "shib": "SHIB to ETH",
+    "erg": "ERG to ETH",
+    "ark": "ARK to ETH",
+    "gno": "GNO to ETH",
+    "ada": "ADA to ETH",
+    "mana": "MANA to MATIC",
+    "busd": "BUSD to BRISE",
+    "iotx": "IOTX to ETH",
+    "nim": "NIM to USDT",
+    "smart": "SMART to USDT",
+    "mith": "MITH to DAI",
+    "uni": "UNI to BTC",
+    "1inch": "1INCH to UNI",
+    "powr": "POWR to AXS",
+    "sc": "SC to EOS",
+    "babydoge": "BABYDOGE to LTC",
+    "matic": "MATIC to XMR",
+    "xch": "XCH to XMR",
+    "cro": "CRO to LTC",
+    "atom": "ATOM to BTC",
+    "awc": "AWC to USDT",
+    "bnt": "BNT to CAKE",
+    "lrc": "LRC to STC",
+    "twt": "TWT to SNM",
+    "avax": "AVAX to BTC",
+    "bsv": "BSV to USDT",
+    "xno": "XNO to BTC",
+    "dag": "DAG to ETH",
+    "paxg": "PAXG to BTC",
+    "vtc": "VTC to LTC",
+    "loom": "LOOM to NULS",
+    "bcd": "BCD to BNT",
+    "nxt": "NXT to DASH",
+    "rune": "RUNE to GNO",
+    "zcl": "ZCL to MLN",
+    "hive": "HIVE to ETH",
+    "glmr": "GLMR to ETH",
+    "firo": "FIRO to SOL",
+    "dot": "DOT to USDT",
+    "xec": "XEC to ETH",
+    "ape": "APE to ETH",
+    "klay": "KLAY to TRX",
+    "brise": "BRISE to USDT",
+    "zil": "ZIL to USDT",
+    "dai": "DAI to MATIC",
+    "wbtc": "WBTC to BNX",
+    "nebl": "NEBL to BTC",
+    "okb": "OKB to STEEM",
+    "ftt": "FTT to WMT",
+    "dcr": "DCR to ETH",
+    "yfi": "YFI to SOL",
+    "aca": "ACA to USDT",
+    "adx": "ADX to BUSD",
+    "btcb": "BTCB to XMR",
+    "kda": "KDA to BTC",
+    "flux": "FLUX to LTC",
+    "axs": "AXS to KAVA",
+    "shinja": "SHINJA to USDT",
+    "mx": "MX to TRX",
+    "lunc": "LUNC to ETH",
+    "algo": "ALGO to ETH",
+    "elf": "ELF to KEY",
+    "steem": "STEEM to PIVX",
+    "grt": "GRT to LOKA",
+    "gt": "GT to SSV",
+    "req": "REQ to BTC",
+    "sun": "SUN to SSV",
+    "bnbbep20": "BNBBEP20 to BTC",
+    "steth": "STETH to USDT",
+    "ethw": "ETHW to HEX",
+    "waxp": "WAXP to USDT",
+    "xvg": "XVG to BTC",
+    "celo": "CELO to SOL",
+    "ustc": "USTC to TWT",
+    "sand": "SAND to ETH",
+    "kava": "KAVA to TRX",
+    "xyo": "XYO to ETH",
+    "kin": "KIN to LTC",
+    "sys": "SYS to NXT",
+    "etn": "ETN to ETH",
+    "ardr": "ARDR to PAY",
+    "arrr": "ARRR to USDC",
+    "eos": "EOS to OGN",
+    "vlx": "VLX to BTC",
+    "fet": "FET to IOTA",
+    "nav": "NAV to HT",
+    "knc": "KNC to LUNC",
+    "strax": "STRAX to USDT",
+    "rcn": "RCN to SHIB",
+    "xvs": "XVS to ADX",
+    "fio": "FIO to HOOK",
+    "ogn": "OGN to TLM",
+    "edg": "EDG to BTC",
+    "wise": "WISE to ETH",
+    "stx": "STX to TRX",
+    "tusd": "TUSD to USDT",
+    "keanu": "KEANU to ETH",
+    "rdd": "RDD to USDT",
+    "op": "OP to ETH",
+    "ubt": "UBT to USDT",
+    "bttc": "BTTC to LINK",
+    "anc": "ANC to USDT",
+    "gala": "GALA to BEAM",
+    "mdx": "MDX to BTC",
+    "aave": "AAVE to ETH",
+    "ldo": "LDO to GLMR",
+    "hbtc": "HBTC to HOO",
+    "near": "NEAR to USDT",
+    "ohm": "OHM to ETH",
+    "nexo": "NEXO to BTC",
+    "kishu": "KISHU to BTC",
+    "rose": "ROSE to IOTX",
+    "amp": "AMP to USDC",
+    "poa": "POA to USDT",
+    "vib": "VIB to MC",
+    "rfr": "RFR to DAR",
+    "lsk": "LSK to ETH",
+    "kcs": "KCS to TRX",
+    "lpt": "LPT to SOL",
+    "vra": "VRA to BTC",
+    "icp": "ICP to BTC",
+    "neo": "NEO to BTC",
+    "blocks": "BLOCKS to USDT",
+    "beam": "BEAM to BTC",
+    "xhv": "XHV to BCH",
+    "floki": "FLOKI to TRX",
+    "api3": "API3 to COTI",
+    "vgx": "VGX to GHC",
+    "ens": "ENS to ETH",
+    "btu": "BTU to MLN",
+    "aurora": "AURORA to FRAX",
+    "blok": "BLOK to TRX",
+    "gnx": "GNX to TRX",
+    "iost": "IOST to VIB",
+    "cel": "CEL to SWEAT",
+    "nkn": "NKN to XRP",
+    "wrx": "WRX to BTC",
+    "ghst": "GHST to RNDR",
+    "crv": "CRV to VLX",
+    "leo": "LEO to GRT",
+    "juv": "JUV to PEOPLE",
+    "ont": "ONT to USDT",
+    "idrt": "IDRT to OCC",
+    "bal": "BAL to FTT",
+    "snt": "SNT to SAND",
+    "tel": "TEL to ETH",
+    "ckb": "CKB to USDT",
+    "nrg": "NRG to MATIC",
+    "amb": "AMB to HOT",
+    "vidt": "VIDT to HEX",
+    "brd": "BRD to ETH",
+    "sub": "SUB to DOGE",
+    "wxt": "WXT to BTC"
+  },
+  {
+    "btc": "BTC to WAVES",
+    "eth": "ETH to HEX",
+    "usdt": "USDT to LUNA",
+    "xrp": "XRP to SRK",
+    "doge": "DOGE to SHIB",
+    "ltc": "LTC to TRX",
+    "xmr": "XMR to SHIB",
+    "usdc": "USDC to BTC",
+    "phb": "PHB to BUSD",
+    "luna": "LUNA to BNT",
+    "dgb": "DGB to BCH",
+    "ngc": "NGC to BEL",
+    "trx": "TRX to XRP",
+    "nano": "NANO to BTC",
+    "dash": "DASH to ETH",
+    "vet": "VET to USDT",
+    "aion": "AION to BUSD",
+    "hnt": "HNT to TRX",
+    "hex": "HEX to LTC",
+    "xtz": "XTZ to ETH",
+    "xlm": "XLM to XRP",
+    "snm": "SNM to BAT",
+    "sol": "SOL to TRX",
+    "bch": "BCH to XLM",
+    "egld": "EGLD to TRX",
+    "cake": "CAKE to NEBL",
+    "ht": "HT to EVER",
+    "btt": "BTT to BTC",
+    "theta": "THETA to TFUEL",
+    "one": "ONE to BTC",
+    "gusd": "GUSD to XRP",
+    "zec": "ZEC to ETH",
+    "sfp": "SFP to CELO",
+    "psg": "PSG to WRX",
+    "rvn": "RVN to ETH",
+    "etc": "ETC to BTC",
+    "shib": "SHIB to TRX",
+    "erg": "ERG to BTG",
+    "ark": "ARK to MATIC",
+    "gno": "GNO to ANT",
+    "ada": "ADA to LTC",
+    "mana": "MANA to CAKE",
+    "busd": "BUSD to XMR",
+    "iotx": "IOTX to BTC",
+    "nim": "NIM to WABI",
+    "smart": "SMART to USDC",
+    "mith": "MITH to ZEN",
+    "uni": "UNI to COMP",
+    "1inch": "1INCH to XMR",
+    "powr": "POWR to JUV",
+    "sc": "SC to DCR",
+    "babydoge": "BABYDOGE to ETH",
+    "matic": "MATIC to ETH",
+    "xch": "XCH to ETH",
+    "cro": "CRO to ETH",
+    "atom": "ATOM to LTC",
+    "awc": "AWC to ETH",
+    "bnt": "BNT to BAKE",
+    "lrc": "LRC to PPT",
+    "twt": "TWT to MATIC",
+    "avax": "AVAX to XMR",
+    "bsv": "BSV to ETH",
+    "xno": "XNO to XMR",
+    "dag": "DAG to USDT",
+    "paxg": "PAXG to ADA",
+    "vtc": "VTC to XMR",
+    "loom": "LOOM to ONG",
+    "bcd": "BCD to VIB",
+    "nxt": "NXT to BTC",
+    "rune": "RUNE to NFT",
+    "zcl": "ZCL to ZEC",
+    "hive": "HIVE to LTC",
+    "glmr": "GLMR to MATIC",
+    "firo": "FIRO to BTC",
+    "dot": "DOT to XMR",
+    "xec": "XEC to BTC",
+    "ape": "APE to BTC",
+    "klay": "KLAY to BCH",
+    "brise": "BRISE to BTC",
+    "zil": "ZIL to ETH",
+    "dai": "DAI to XMR",
+    "wbtc": "WBTC to XRP",
+    "nebl": "NEBL to DNT",
+    "okb": "OKB to CAKE",
+    "ftt": "FTT to USDC",
+    "dcr": "DCR to BTC",
+    "yfi": "YFI to ETN",
+    "aca": "ACA to ETH",
+    "adx": "ADX to FLUX",
+    "btcb": "BTCB to FTT",
+    "kda": "KDA to XMR",
+    "flux": "FLUX to USDT",
+    "axs": "AXS to USDC",
+    "shinja": "SHINJA to CVC",
+    "mx": "MX to T",
+    "lunc": "LUNC to STAKE",
+    "algo": "ALGO to LTC",
+    "elf": "ELF to ATA",
+    "steem": "STEEM to TRX",
+    "grt": "GRT to SAND",
+    "gt": "GT to ORN",
+    "req": "REQ to HT",
+    "sun": "SUN to TEL",
+    "bnbbep20": "BNBBEP20 to ETH",
+    "steth": "STETH to BTC",
+    "ethw": "ETHW to USDT",
+    "waxp": "WAXP to SMART",
+    "xvg": "XVG to XMR",
+    "celo": "CELO to LTC",
+    "ustc": "USTC to BTC",
+    "sand": "SAND to HT",
+    "kava": "KAVA to XMR",
+    "xyo": "XYO to XMR",
+    "kin": "KIN to STRAX",
+    "sys": "SYS to BAT",
+    "etn": "ETN to COMP",
+    "ardr": "ARDR to NXT",
+    "arrr": "ARRR to TFUEL",
+    "eos": "EOS to MBL",
+    "vlx": "VLX to LTC",
+    "fet": "FET to USDT",
+    "nav": "NAV to LAZIO",
+    "knc": "KNC to MC",
+    "strax": "STRAX to PORTO",
+    "rcn": "RCN to USDT",
+    "xvs": "XVS to BTC",
+    "fio": "FIO to SAND",
+    "ogn": "OGN to ORN",
+    "edg": "EDG to FXS"
+  },
+  {
+    "btc": "BTC to LUNC",
+    "eth": "ETH to VTC",
+    "usdt": "USDT to USDP",
+    "xrp": "XRP to NEAR",
+    "doge": "DOGE to GAS",
+    "ltc": "LTC to USDT",
+    "xmr": "XMR to LTC",
+    "usdc": "USDC to ZIL",
+    "phb": "PHB to BTC",
+    "luna": "LUNA to DAI",
+    "dgb": "DGB to IOTX",
+    "ngc": "NGC to MXC",
+    "trx": "TRX to DOT",
+    "nano": "NANO to TRX",
+    "dash": "DASH to BTC",
+    "vet": "VET to DENT",
+    "aion": "AION to USDC",
+    "hnt": "HNT to LTC",
+    "hex": "HEX to ETHW",
+    "xtz": "XTZ to BTC",
+    "xlm": "XLM to NANO",
+    "snm": "SNM to ACM",
+    "sol": "SOL to XMR",
+    "bch": "BCH to LTC",
+    "egld": "EGLD to USDT",
+    "cake": "CAKE to XMR",
+    "ht": "HT to FARM",
+    "btt": "BTT to XMR",
+    "theta": "THETA to VRA",
+    "one": "ONE to USDT",
+    "gusd": "GUSD to USDC",
+    "zec": "ZEC to XRP",
+    "sfp": "SFP to BAT",
+    "psg": "PSG to ATA",
+    "rvn": "RVN to XMR",
+    "etc": "ETC to RVN",
+    "shib": "SHIB to BTTC",
+    "erg": "ERG to USDT",
+    "ark": "ARK to ALGO",
+    "gno": "GNO to MATIC",
+    "ada": "ADA to TRX",
+    "mana": "MANA to CELO",
+    "busd": "BUSD to BTC",
+    "iotx": "IOTX to USDT",
+    "nim": "NIM to HOT",
+    "smart": "SMART to BCH",
+    "mith": "MITH to IOTA",
+    "uni": "UNI to CELO",
+    "1inch": "1INCH to CAKE",
+    "powr": "POWR to FET",
+    "sc": "SC to KEY",
+    "babydoge": "BABYDOGE to BTC",
+    "matic": "MATIC to BCH",
+    "xch": "XCH to USDT",
+    "cro": "CRO to BTC",
+    "atom": "ATOM to XMR",
+    "awc": "AWC to BTC",
+    "bnt": "BNT to DYDX",
+    "lrc": "LRC to BTC",
+    "twt": "TWT to BRISE",
+    "avax": "AVAX to USDT",
+    "bsv": "BSV to USDC",
+    "xno": "XNO to LTC",
+    "dag": "DAG to HBAR",
+    "paxg": "PAXG to C98",
+    "vtc": "VTC to USDT",
+    "loom": "LOOM to ALGO",
+    "bcd": "BCD to WABI",
+    "nxt": "NXT to POWR",
+    "rune": "RUNE to OKB",
+    "zcl": "ZCL to ZEN",
+    "hive": "HIVE to STEEM",
+    "glmr": "GLMR to USDT",
+    "firo": "FIRO to TRX",
+    "dot": "DOT to GLMR",
+    "xec": "XEC to BCH",
+    "ape": "APE to USDT",
+    "klay": "KLAY to MATIC",
+    "brise": "BRISE to TRX",
+    "zil": "ZIL to VRA",
+    "dai": "DAI to TRX",
+    "wbtc": "WBTC to VRA",
+    "nebl": "NEBL to TWT",
+    "okb": "OKB to BUSD",
+    "ftt": "FTT to USDT",
+    "dcr": "DCR to ONG",
+    "yfi": "YFI to ETC",
+    "aca": "ACA to LUSD",
+    "adx": "ADX to RNDR",
+    "btcb": "BTCB to TRX",
+    "kda": "KDA to USDT",
+    "flux": "FLUX to ETH",
+    "axs": "AXS to USDT",
+    "shinja": "SHINJA to BTC",
+    "mx": "MX to FRONT",
+    "lunc": "LUNC to XMR",
+    "algo": "ALGO to XMR",
+    "elf": "ELF to AXL",
+    "steem": "STEEM to BAND",
+    "grt": "GRT to USDT",
+    "gt": "GT to ASR",
+    "req": "REQ to STORJ",
+    "sun": "SUN to COTI"
+  },
+  {
+    "btc": "BTC to DOGE",
+    "eth": "ETH to LUNC",
+    "usdt": "USDT to TRX",
+    "xrp": "XRP to USDT",
+    "doge": "DOGE to APE",
+    "ltc": "LTC to XMR",
+    "xmr": "XMR to TRX",
+    "usdc": "USDC to BRISE",
+    "phb": "PHB to LPT",
+    "luna": "LUNA to ETC",
+    "dgb": "DGB to ETH",
+    "ngc": "NGC to KEY",
+    "trx": "TRX to ATOM",
+    "nano": "NANO to ETH",
+    "dash": "DASH to ZEC",
+    "vet": "VET to LINK",
+    "aion": "AION to USDT",
+    "hnt": "HNT to BTC",
+    "hex": "HEX to BTC",
+    "xtz": "XTZ to XMR",
+    "xlm": "XLM to SHIB",
+    "snm": "SNM to NAV",
+    "sol": "SOL to BTC",
+    "bch": "BCH to DASH",
+    "egld": "EGLD to BUSD",
+    "cake": "CAKE to XLM",
+    "ht": "HT to HIVE",
+    "btt": "BTT to DGB",
+    "theta": "THETA to VET",
+    "one": "ONE to ORN",
+    "gusd": "GUSD to ADA",
+    "zec": "ZEC to LTC",
+    "sfp": "SFP to PPC",
+    "psg": "PSG to MDX",
+    "rvn": "RVN to LTC",
+    "etc": "ETC to XMR",
+    "shib": "SHIB to LEASH",
+    "erg": "ERG to BTC",
+    "ark": "ARK to LUNA",
+    "gno": "GNO to SUSHI",
+    "ada": "ADA to DOGE",
+    "mana": "MANA to BTCV",
+    "busd": "BUSD to TRX",
+    "iotx": "IOTX to MATIC",
+    "nim": "NIM to RVN",
+    "smart": "SMART to FTT",
+    "mith": "MITH to ALGO",
+    "uni": "UNI to GAME",
+    "1inch": "1INCH to MATIC",
+    "powr": "POWR to ETH",
+    "sc": "SC to GRS",
+    "babydoge": "BABYDOGE to TRX",
+    "matic": "MATIC to TRX",
+    "xch": "XCH to LTC",
+    "cro": "CRO to MAID",
+    "atom": "ATOM to TRX",
+    "awc": "AWC to JULD",
+    "bnt": "BNT to FLOW",
+    "lrc": "LRC to LUN",
+    "twt": "TWT to FLOKI",
+    "avax": "AVAX to TRX",
+    "bsv": "BSV to SHIB",
+    "xno": "XNO to USDT",
+    "dag": "DAG to RAD",
+    "paxg": "PAXG to QNT",
+    "vtc": "VTC to BTC",
+    "loom": "LOOM to BUSD",
+    "bcd": "BCD to USDC",
+    "nxt": "NXT to NEXO",
+    "rune": "RUNE to VRA",
+    "zcl": "ZCL to MV",
+    "hive": "HIVE to XMR",
+    "glmr": "GLMR to TRX",
+    "firo": "FIRO to ETH",
+    "dot": "DOT to ETH",
+    "xec": "XEC to LTC",
+    "ape": "APE to THETA",
+    "klay": "KLAY to MITH",
+    "brise": "BRISE to BCH",
+    "zil": "ZIL to LTC",
+    "dai": "DAI to BTC",
+    "wbtc": "WBTC to RSR",
+    "nebl": "NEBL to UTK",
+    "okb": "OKB to IOST",
+    "ftt": "FTT to BTC",
+    "dcr": "DCR to WPR",
+    "yfi": "YFI to BTC"
+  },
+  {
+    "btc": "BTC to AVAX",
+    "eth": "ETH to XMR",
+    "usdt": "USDT to ATOM",
+    "xrp": "XRP to AVAX",
+    "doge": "DOGE to NANO",
+    "ltc": "LTC to ETH",
+    "xmr": "XMR to ADA",
+    "usdc": "USDC to XMR",
+    "phb": "PHB to LRC",
+    "luna": "LUNA to FTT",
+    "dgb": "DGB to DOGE",
+    "ngc": "NGC to REQ",
+    "trx": "TRX to XMR",
+    "nano": "NANO to XMR",
+    "dash": "DASH to BNT",
+    "vet": "VET to POWR",
+    "aion": "AION to BTC",
+    "hnt": "HNT to DOGE",
+    "hex": "HEX to TRX",
+    "xtz": "XTZ to BSV",
+    "xlm": "XLM to TRX",
+    "snm": "SNM to MLN",
+    "sol": "SOL to USDT",
+    "bch": "BCH to TRX",
+    "egld": "EGLD to PAXG",
+    "cake": "CAKE to BUSD",
+    "ht": "HT to KLAY",
+    "btt": "BTT to USDT",
+    "theta": "THETA to XRP",
+    "one": "ONE to TLM",
+    "gusd": "GUSD to TUSD",
+    "zec": "ZEC to DASH",
+    "sfp": "SFP to ICP",
+    "psg": "PSG to TLM",
+    "rvn": "RVN to BTC",
+    "etc": "ETC to TWT",
+    "shib": "SHIB to USDT",
+    "erg": "ERG to TRX",
+    "ark": "ARK to BADGER",
+    "gno": "GNO to VGX",
+    "ada": "ADA to BTC",
+    "mana": "MANA to BUSD",
+    "busd": "BUSD to LTC",
+    "iotx": "IOTX to IOTA",
+    "nim": "NIM to AXS",
+    "smart": "SMART to MX",
+    "mith": "MITH to BUSD",
+    "uni": "UNI to MANA",
+    "1inch": "1INCH to BTC",
+    "powr": "POWR to GRT",
+    "sc": "SC to SRM",
+    "babydoge": "BABYDOGE to XMR",
+    "matic": "MATIC to LTC",
+    "xch": "XCH to SOL",
+    "cro": "CRO to RUNE",
+    "atom": "ATOM to USTC",
+    "awc": "AWC to XRP",
+    "bnt": "BNT to PEPE",
+    "lrc": "LRC to ENS",
+    "twt": "TWT to SUKU",
+    "avax": "AVAX to AKITA",
+    "bsv": "BSV to HT",
+    "xno": "XNO to ETH",
+    "dag": "DAG to SFP",
+    "paxg": "PAXG to SFP",
+    "vtc": "VTC to BUSD",
+    "loom": "LOOM to STARL",
+    "bcd": "BCD to HT",
+    "nxt": "NXT to HNT",
+    "rune": "RUNE to UTK",
+    "zcl": "ZCL to MC"
+  },
+  {
+    "btc": "BTC to ETH",
+    "eth": "ETH to AMP",
+    "usdt": "USDT to SOL",
+    "xrp": "XRP to LTC",
+    "doge": "DOGE to FLOKI",
+    "ltc": "LTC to SHIB",
+    "xmr": "XMR to BTCB",
+    "usdc": "USDC to LTC",
+    "phb": "PHB to MIR",
+    "luna": "LUNA to HEX",
+    "dgb": "DGB to XMR",
+    "ngc": "NGC to REP",
+    "trx": "TRX to ONE",
+    "nano": "NANO to DOGE",
+    "dash": "DASH to DCR",
+    "vet": "VET to USDC",
+    "aion": "AION to FUN",
+    "hnt": "HNT to BSV",
+    "hex": "HEX to XMR",
+    "xtz": "XTZ to OKB",
+    "xlm": "XLM to XDC",
+    "snm": "SNM to HFT",
+    "sol": "SOL to XDC",
+    "bch": "BCH to BSV",
+    "egld": "EGLD to TORN",
+    "cake": "CAKE to MANA",
+    "ht": "HT to NEBL",
+    "btt": "BTT to BTG",
+    "theta": "THETA to LTC",
+    "one": "ONE to STN",
+    "gusd": "GUSD to BUSD",
+    "zec": "ZEC to USDT",
+    "sfp": "SFP to BTC",
+    "psg": "PSG to SRM",
+    "rvn": "RVN to ADA",
+    "etc": "ETC to PORTO",
+    "shib": "SHIB to ELON",
+    "erg": "ERG to ZEC",
+    "ark": "ARK to SFP",
+    "gno": "GNO to API3",
+    "ada": "ADA to VET",
+    "mana": "MANA to EURS",
+    "busd": "BUSD to VIB",
+    "iotx": "IOTX to UNI",
+    "nim": "NIM to CAKE",
+    "smart": "SMART to ERG",
+    "mith": "MITH to MBOX",
+    "uni": "UNI to POWR",
+    "1inch": "1INCH to HBAR",
+    "powr": "POWR to UNI",
+    "sc": "SC to PAY",
+    "babydoge": "BABYDOGE to KCS",
+    "matic": "MATIC to GMEE",
+    "xch": "XCH to AVAX",
+    "cro": "CRO to XMR",
+    "atom": "ATOM to USDT",
+    "awc": "AWC to LTC",
+    "bnt": "BNT to PERP",
+    "lrc": "LRC to ETH"
+  },
+  {
+    "btc": "BTC to WBTC",
+    "eth": "ETH to BNBBEP20",
+    "usdt": "USDT to XMR",
+    "xrp": "XRP to BRISE",
+    "doge": "DOGE to BUSD",
+    "ltc": "LTC to DOGE",
+    "xmr": "XMR to USDT",
+    "usdc": "USDC to ETH",
+    "phb": "PHB to KMD",
+    "luna": "LUNA to KRL",
+    "dgb": "DGB to VET",
+    "ngc": "NGC to SFP",
+    "trx": "TRX to DASH",
+    "nano": "NANO to LTC",
+    "dash": "DASH to EOS",
+    "vet": "VET to ONE",
+    "aion": "AION to EFI",
+    "hnt": "HNT to XMR",
+    "hex": "HEX to MC",
+    "xtz": "XTZ to FIO",
+    "xlm": "XLM to BTC",
+    "snm": "SNM to ETH",
+    "sol": "SOL to MATIC",
+    "bch": "BCH to ETH",
+    "egld": "EGLD to USDC",
+    "cake": "CAKE to QTUM",
+    "ht": "HT to MBOX",
+    "btt": "BTT to WBTC",
+    "theta": "THETA to FTT",
+    "one": "ONE to ICP",
+    "gusd": "GUSD to SOL",
+    "zec": "ZEC to BSV",
+    "sfp": "SFP to CHR",
+    "psg": "PSG to GRT",
+    "rvn": "RVN to BUSD",
+    "etc": "ETC to HIVE",
+    "shib": "SHIB to XMR",
+    "erg": "ERG to XMR",
+    "ark": "ARK to MIR",
+    "gno": "GNO to ATA",
+    "ada": "ADA to DOT",
+    "mana": "MANA to LUNA",
+    "busd": "BUSD to ALPINE",
+    "iotx": "IOTX to TWT",
+    "nim": "NIM to BRD",
+    "smart": "SMART to JASMY",
+    "mith": "MITH to CEEK",
+    "uni": "UNI to USDC",
+    "1inch": "1INCH to DNT",
+    "powr": "POWR to MTL",
+    "sc": "SC to QNT"
+  },
+  {
+    "btc": "BTC to STX",
+    "eth": "ETH to SOL",
+    "usdt": "USDT to BCH",
+    "xrp": "XRP to ADA",
+    "doge": "DOGE to LTC",
+    "ltc": "LTC to BCH",
+    "xmr": "XMR to BTC",
+    "usdc": "USDC to SOL",
+    "phb": "PHB to HEX",
+    "luna": "LUNA to AST",
+    "dgb": "DGB to BTC",
+    "ngc": "NGC to ONT",
+    "trx": "TRX to LTC",
+    "nano": "NANO to BNT",
+    "dash": "DASH to PPT",
+    "vet": "VET to MATIC",
+    "aion": "AION to ETC",
+    "hnt": "HNT to VRA",
+    "hex": "HEX to BEAM",
+    "xtz": "XTZ to COMP",
+    "xlm": "XLM to XMR",
+    "snm": "SNM to CRV",
+    "sol": "SOL to LTC",
+    "bch": "BCH to DGB",
+    "egld": "EGLD to NIM",
+    "cake": "CAKE to SHIB",
+    "ht": "HT to MASK",
+    "btt": "BTT to XYO",
+    "theta": "THETA to AMP",
+    "one": "ONE to ETH",
+    "gusd": "GUSD to SUSHI",
+    "zec": "ZEC to MATIC",
+    "sfp": "SFP to XTZ",
+    "psg": "PSG to GAL",
+    "rvn": "RVN to CAKE",
+    "etc": "ETC to ETHW",
+    "shib": "SHIB to LTC",
+    "erg": "ERG to LTC",
+    "ark": "ARK to CNS",
+    "gno": "GNO to SWEAT",
+    "ada": "ADA to BRISE",
+    "mana": "MANA to LOOM"
+  },
+  {
+    "btc": "BTC to SOL",
+    "eth": "ETH to GNO",
+    "usdt": "USDT to DGB",
+    "xrp": "XRP to BTC",
+    "doge": "DOGE to BRISE",
+    "ltc": "LTC to BABYDOGE",
+    "xmr": "XMR to CUDOS",
+    "usdc": "USDC to USDT",
+    "phb": "PHB to GMT",
+    "luna": "LUNA to AMP",
+    "dgb": "DGB to LTC",
+    "ngc": "NGC to ORN",
+    "trx": "TRX to USDT",
+    "nano": "NANO to USDT",
+    "dash": "DASH to LINK",
+    "vet": "VET to BUSD",
+    "aion": "AION to ETH",
+    "hnt": "HNT to RAY",
+    "hex": "HEX to BAND",
+    "xtz": "XTZ to EURS",
+    "xlm": "XLM to DOGE",
+    "snm": "SNM to CVX",
+    "sol": "SOL to GMT",
+    "bch": "BCH to SOL",
+    "egld": "EGLD to UTK",
+    "cake": "CAKE to USDT",
+    "ht": "HT to MANA",
+    "btt": "BTT to BRISE",
+    "theta": "THETA to BTC",
+    "one": "ONE to MATIC",
+    "gusd": "GUSD to DOT",
+    "zec": "ZEC to HT",
+    "sfp": "SFP to SYS",
+    "psg": "PSG to ILV",
+    "rvn": "RVN to FLUX",
+    "etc": "ETC to FLUX"
+  },
+  {
+    "btc": "BTC to ADA",
+    "eth": "ETH to GALA",
+    "usdt": "USDT to DAG",
+    "xrp": "XRP to XLM",
+    "doge": "DOGE to BCH",
+    "ltc": "LTC to DIVI",
+    "xmr": "XMR to BCH",
+    "usdc": "USDC to TRX",
+    "phb": "PHB to SNM",
+    "luna": "LUNA to BSW",
+    "dgb": "DGB to USDT",
+    "ngc": "NGC to PSG",
+    "trx": "TRX to IOTX",
+    "nano": "NANO to ETC",
+    "dash": "DASH to NEXO",
+    "vet": "VET to LUNA",
+    "aion": "AION to AVA",
+    "hnt": "HNT to SOL",
+    "hex": "HEX to CAKE",
+    "xtz": "XTZ to HBAR",
+    "xlm": "XLM to LTC",
+    "snm": "SNM to XVG",
+    "sol": "SOL to ZIL",
+    "bch": "BCH to XRP",
+    "egld": "EGLD to IMX",
+    "cake": "CAKE to MATIC",
+    "ht": "HT to LUNA",
+    "btt": "BTT to XEC",
+    "theta": "THETA to DGB",
+    "one": "ONE to SANTOS",
+    "gusd": "GUSD to LEO",
+    "zec": "ZEC to GLMR",
+    "sfp": "SFP to VGX",
+    "psg": "PSG to HFT"
+  },
+  {
+    "btc": "BTC to MYST",
+    "eth": "ETH to CSPR",
+    "usdt": "USDT to LTC",
+    "xrp": "XRP to DOGE",
+    "doge": "DOGE to MATIC",
+    "ltc": "LTC to STAKE",
+    "xmr": "XMR to NANO",
+    "usdc": "USDC to THETA",
+    "phb": "PHB to SSV",
+    "luna": "LUNA to BAT",
+    "dgb": "DGB to USDC",
+    "ngc": "NGC to ERG",
+    "trx": "TRX to XDC",
+    "nano": "NANO to RCN",
+    "dash": "DASH to XVG",
+    "vet": "VET to VRA",
+    "aion": "AION to ADA",
+    "hnt": "HNT to POE",
+    "hex": "HEX to LINK",
+    "xtz": "XTZ to PERP",
+    "xlm": "XLM to ETH",
+    "snm": "SNM to SYN",
+    "sol": "SOL to NANO",
+    "bch": "BCH to TFUEL",
+    "egld": "EGLD to APT"
+  },
+  {
+    "btc": "BTC to PPM",
+    "eth": "ETH to BTC",
+    "usdt": "USDT to AAVE",
+    "xrp": "XRP to BTCB",
+    "doge": "DOGE to RDD",
+    "ltc": "LTC to ATOM",
+    "xmr": "XMR to XCH",
+    "usdc": "USDC to GLMR",
+    "phb": "PHB to RDN",
+    "luna": "LUNA to CVC",
+    "dgb": "DGB to ADA",
+    "ngc": "NGC to ETH",
+    "trx": "TRX to DOGE",
+    "nano": "NANO to CEL",
+    "dash": "DASH to TOMO",
+    "vet": "VET to TLM",
+    "aion": "AION to TWT",
+    "hnt": "HNT to NXT",
+    "hex": "HEX to MANA",
+    "xtz": "XTZ to USDC",
+    "xlm": "XLM to TUSD",
+    "snm": "SNM to BUSD"
+  },
+  {
+    "btc": "BTC to ARPA",
+    "eth": "ETH to LTC",
+    "usdt": "USDT to MATIC",
+    "xrp": "XRP to XVG",
+    "doge": "DOGE to DGB",
+    "ltc": "LTC to SOL",
+    "xmr": "XMR to DOGE",
+    "usdc": "USDC to IOTA",
+    "phb": "PHB to RLC",
+    "luna": "LUNA to CRV",
+    "dgb": "DGB to KEY",
+    "ngc": "NGC to BTC",
+    "trx": "TRX to NIM",
+    "nano": "NANO to LUNA",
+    "dash": "DASH to DOT",
+    "vet": "VET to XDC",
+    "aion": "AION to PHB",
+    "hnt": "HNT to BCH",
+    "hex": "HEX to NEAR",
+    "xtz": "XTZ to USDT"
+  },
+  {
+    "btc": "BTC to XTZ",
+    "eth": "ETH to NU",
+    "usdt": "USDT to SHIB",
+    "xrp": "XRP to ALGO",
+    "doge": "DOGE to QUICK",
+    "ltc": "LTC to DGB",
+    "xmr": "XMR to XHV",
+    "usdc": "USDC to DASH",
+    "phb": "PHB to RGT",
+    "luna": "LUNA to VGX",
+    "dgb": "DGB to ONE",
+    "ngc": "NGC to CND",
+    "trx": "TRX to BAT",
+    "nano": "NANO to AVAX",
+    "dash": "DASH to PHB",
+    "vet": "VET to XPR",
+    "aion": "AION to NGC",
+    "hnt": "HNT to WBNBBSC"
+  },
+  {
+    "btc": "BTC to HTR",
+    "eth": "ETH to IMX",
+    "usdt": "USDT to SMART",
+    "xrp": "XRP to XTZ",
+    "doge": "DOGE to TRX",
+    "ltc": "LTC to STARL",
+    "xmr": "XMR to RVN",
+    "usdc": "USDC to VOLT",
+    "phb": "PHB to UMA",
+    "luna": "LUNA to LRC",
+    "dgb": "DGB to SOL",
+    "ngc": "NGC to CRV",
+    "trx": "TRX to ZEC",
+    "nano": "NANO to TORN",
+    "dash": "DASH to AXS",
+    "vet": "VET to HAI",
+    "aion": "AION to HT"
+  },
+  {
+    "btc": "BTC to ETN",
+    "eth": "ETH to LUNA",
+    "usdt": "USDT to IOTX",
+    "xrp": "XRP to BTT",
+    "doge": "DOGE to ADA",
+    "ltc": "LTC to MATIC",
+    "xmr": "XMR to MINA",
+    "usdc": "USDC to TFUEL",
+    "phb": "PHB to UTK",
+    "luna": "LUNA to PPT",
+    "dgb": "DGB to HEX",
+    "ngc": "NGC to CVX",
+    "trx": "TRX to MATIC",
+    "nano": "NANO to LDO",
+    "dash": "DASH to IDRT",
+    "vet": "VET to COTI"
+  },
+  {
+    "btc": "BTC to ANC",
+    "eth": "ETH to AVAX",
+    "usdt": "USDT to MITH",
+    "xrp": "XRP to VET",
+    "doge": "DOGE to IOTX",
+    "ltc": "LTC to NANO",
+    "xmr": "XMR to XRP",
+    "usdc": "USDC to XRP",
+    "phb": "PHB to NAV",
+    "luna": "LUNA to PSG",
+    "dgb": "DGB to VRA",
+    "ngc": "NGC to XEM",
+    "trx": "TRX to SFMBSC",
+    "nano": "NANO to HT"
+  },
+  {
+    "btc": "BTC to XMR",
+    "eth": "ETH to FLOW",
+    "usdt": "USDT to STEEM",
+    "xrp": "XRP to XMR",
+    "doge": "DOGE to SMART",
+    "ltc": "LTC to IOTX",
+    "xmr": "XMR to ZEC",
+    "usdc": "USDC to FLOKI",
+    "phb": "PHB to QNT",
+    "luna": "LUNA to SOL",
+    "dgb": "DGB to SHIB",
+    "ngc": "NGC to XYO"
+  },
+  {
+    "btc": "BTC to BABYDOGE",
+    "eth": "ETH to APT",
+    "usdt": "USDT to VET",
+    "xrp": "XRP to DGB",
+    "doge": "DOGE to ETH",
+    "ltc": "LTC to XRP",
+    "xmr": "XMR to LSK",
+    "usdc": "USDC to CEL",
+    "phb": "PHB to VET",
+    "luna": "LUNA to SLP",
+    "dgb": "DGB to RDN",
+    "ngc": "NGC to XYM"
+  },
+  {
+    "btc": "BTC to GO",
+    "eth": "ETH to ADA",
+    "usdt": "USDT to DOGE",
+    "xrp": "XRP to ETH",
+    "doge": "DOGE to USDT",
+    "ltc": "LTC to ZEC",
+    "xmr": "XMR to DASH",
+    "usdc": "USDC to LUNC",
+    "phb": "PHB to VGX",
+    "luna": "LUNA to TRX"
+  },
+  {
+    "btc": "BTC to BTCB",
+    "eth": "ETH to XRP",
+    "usdt": "USDT to GUSD",
+    "xrp": "XRP to DASH",
+    "doge": "DOGE to XRP",
+    "ltc": "LTC to WAVES",
+    "xmr": "XMR to BAT",
+    "usdc": "USDC to PPT",
+    "phb": "PHB to ZCL"
+  },
+  {
+    "btc": "BTC to TRX",
+    "eth": "ETH to TRX",
+    "usdt": "USDT to XRP",
+    "xrp": "XRP to ZEC",
+    "doge": "DOGE to VET",
+    "ltc": "LTC to XLM",
+    "xmr": "XMR to XLM",
+    "usdc": "USDC to DRGN",
+    "phb": "PHB to C98"
+  },
+  {
+    "btc": "BTC to ZEN",
+    "eth": "ETH to SRM",
+    "usdt": "USDT to ANT",
+    "xrp": "XRP to RLC",
+    "doge": "DOGE to XMR",
+    "ltc": "LTC to ETC",
+    "xmr": "XMR to AMP",
+    "usdc": "USDC to SAND",
+    "phb": "PHB to AXS"
+  },
+  {
+    "btc": "BTC to SMART",
+    "eth": "ETH to XTZ",
+    "usdt": "USDT to GNO",
+    "xrp": "XRP to CVC",
+    "doge": "DOGE to DASH",
+    "ltc": "LTC to AMP",
+    "xmr": "XMR to DAI",
+    "usdc": "USDC to SHIB",
+    "phb": "PHB to BNT"
+  },
+  {
+    "btc": "BTC to SHIB",
+    "eth": "ETH to KLAY",
+    "usdt": "USDT to NXT",
+    "xrp": "XRP to SYS",
+    "doge": "DOGE to PAY",
+    "ltc": "LTC to STX",
+    "xmr": "XMR to TUSD",
+    "usdc": "USDC to LINK",
+    "phb": "PHB to ADA"
+  },
+  {
+    "btc": "BTC to ONE",
+    "eth": "ETH to FAIR",
+    "usdt": "USDT to DCR",
+    "xrp": "XRP to TRX",
+    "doge": "DOGE to SYS",
+    "ltc": "LTC to ZIL",
+    "xmr": "XMR to USDC",
+    "usdc": "USDC to MANA",
+    "phb": "PHB to ARV"
+  },
+  {
+    "btc": "BTC to AKRO",
+    "eth": "ETH to LSK",
+    "usdt": "USDT to BAT",
+    "xrp": "XRP to AMP",
+    "doge": "DOGE to REP",
+    "ltc": "LTC to ADA",
+    "xmr": "XMR to VTC",
+    "usdc": "USDC to MBOX",
+    "phb": "PHB to AMP"
+  },
+  {
+    "btc": "BTC to LTC",
+    "eth": "ETH to CELO",
+    "usdt": "USDT to ZEC",
+    "xrp": "XRP to STX",
+    "doge": "DOGE to STX",
+    "ltc": "LTC to ZEN",
+    "xmr": "XMR to MATIC",
+    "usdc": "USDC to LUNA",
+    "phb": "PHB to DCR"
+  },
+  {
+    "btc": "BTC to VET",
+    "eth": "ETH to KLEE",
+    "usdt": "USDT to DASH",
+    "xrp": "XRP to DENT",
+    "doge": "DOGE to MYST",
+    "ltc": "LTC to DAI",
+    "xmr": "XMR to CRO",
+    "usdc": "USDC to REEF",
+    "phb": "PHB to SANTOS"
+  },
+  {
+    "btc": "BTC to DAI",
+    "eth": "ETH to GLMR",
+    "usdt": "USDT to MLN",
+    "xrp": "XRP to MTL",
+    "doge": "DOGE to POWR",
+    "ltc": "LTC to USDC",
+    "xmr": "XMR to HT",
+    "usdc": "USDC to KAVA"
+  },
+  {
+    "btc": "BTC to KAI",
+    "eth": "ETH to BRISE",
+    "usdt": "USDT to SNM",
+    "xrp": "XRP to FUN",
+    "doge": "DOGE to MANA",
+    "ltc": "LTC to RVN",
+    "xmr": "XMR to QNT",
+    "usdc": "USDC to NEAR"
+  },
+  {
+    "btc": "BTC to NANO",
+    "eth": "ETH to MXC",
+    "usdt": "USDT to XLM",
+    "xrp": "XRP to VIB",
+    "doge": "DOGE to DAI",
+    "ltc": "LTC to VTC",
+    "xmr": "XMR to HBAR",
+    "usdc": "USDC to NEXO"
+  },
+  {
+    "btc": "BTC to GLMR",
+    "eth": "ETH to HIVE",
+    "usdt": "USDT to WAVES",
+    "xrp": "XRP to ZIL",
+    "doge": "DOGE to USDC",
+    "ltc": "LTC to ONE",
+    "xmr": "XMR to ALGO",
+    "usdc": "USDC to TUSD"
+  },
+  {
+    "btc": "BTC to RVN",
+    "eth": "ETH to DOT",
+    "usdt": "USDT to QTUM",
+    "xrp": "XRP to USDC",
+    "doge": "DOGE to NEXO",
+    "ltc": "LTC to THETA",
+    "xmr": "XMR to SOL",
+    "usdc": "USDC to POLY"
+  },
+  {
+    "btc": "BTC to ROSE",
+    "eth": "ETH to ROSE",
+    "usdt": "USDT to SYS",
+    "xrp": "XRP to TEL",
+    "doge": "DOGE to RVN",
+    "ltc": "LTC to CRO",
+    "xmr": "XMR to SCRT",
+    "usdc": "USDC to POWR"
+  },
+  {
+    "btc": "BTC to USDC",
+    "eth": "ETH to SFMBSC",
+    "usdt": "USDT to ETC",
+    "xrp": "XRP to BSV",
+    "doge": "DOGE to HOT",
+    "ltc": "LTC to ALGO",
+    "xmr": "XMR to LUNA",
+    "usdc": "USDC to PAXG"
+  },
+  {
+    "btc": "BTC to HIVE",
+    "eth": "ETH to XVG",
+    "usdt": "USDT to STORJ",
+    "xrp": "XRP to ONG",
+    "doge": "DOGE to ONE",
+    "ltc": "LTC to BUSD",
+    "xmr": "XMR to KCS",
+    "usdc": "USDC to TOMO"
+  },
+  {
+    "btc": "BTC to ARRR",
+    "eth": "ETH to MONI",
+    "usdt": "USDT to AMP",
+    "xrp": "XRP to ONE",
+    "doge": "DOGE to ETN",
+    "ltc": "LTC to HIVE",
+    "xmr": "XMR to PAXG",
+    "usdc": "USDC to TRAC"
+  },
+  {
+    "btc": "BTC to XEM",
+    "eth": "ETH to AR",
+    "usdt": "USDT to EOS",
+    "xrp": "XRP to ETN",
+    "doge": "DOGE to ATOM",
+    "ltc": "LTC to AVA",
+    "xmr": "XMR to ANKR",
+    "usdc": "USDC to PERP"
+  },
+  {
+    "btc": "BTC to APT",
+    "eth": "ETH to XYO",
+    "usdt": "USDT to ADX",
+    "xrp": "XRP to THETA",
+    "doge": "DOGE to HBAR",
+    "ltc": "LTC to KSM",
+    "xmr": "XMR to AXS",
+    "usdc": "USDC to ALPACA"
+  },
+  {
+    "btc": "BTC to ZEC",
+    "eth": "ETH to ELON",
+    "usdt": "USDT to TKN",
+    "xrp": "XRP to CHR",
+    "doge": "DOGE to BEAM",
+    "ltc": "LTC to RUNE",
+    "xmr": "XMR to HNT",
+    "usdc": "USDC to MATIC"
+  },
+  {
+    "btc": "BTC to MXC",
+    "eth": "ETH to RBTC",
+    "usdt": "USDT to KNC",
+    "xrp": "XRP to MATIC",
+    "doge": "DOGE to ALGO",
+    "ltc": "LTC to LUNA",
+    "xmr": "XMR to KP3R"
+  },
+  {
+    "btc": "BTC to YGG",
+    "eth": "ETH to XEC",
+    "usdt": "USDT to POWR",
+    "xrp": "XRP to BUSD",
+    "doge": "DOGE to MXC",
+    "ltc": "LTC to SCRT",
+    "xmr": "XMR to DEXE"
+  },
+  {
+    "btc": "BTC to LUNA",
+    "eth": "ETH to SUSHI",
+    "usdt": "USDT to FUN",
+    "xrp": "XRP to FTT",
+    "doge": "DOGE to BAND",
+    "ltc": "LTC to HEX",
+    "xmr": "XMR to FIRO"
+  },
+  {
+    "btc": "BTC to FIL",
+    "eth": "ETH to ICP",
+    "usdt": "USDT to MANA",
+    "xrp": "XRP to ARPA",
+    "doge": "DOGE to CHZ",
+    "ltc": "LTC to SUN",
+    "xmr": "XMR to CAKE"
+  },
+  {
+    "btc": "BTC to KDA",
+    "eth": "ETH to AMPL",
+    "usdt": "USDT to CND",
+    "xrp": "XRP to CTSI",
+    "doge": "DOGE to KAVA",
+    "ltc": "LTC to CRV",
+    "xmr": "XMR to FLUX"
+  },
+  {
+    "btc": "BTC to AR",
+    "eth": "ETH to BABYDOGE",
+    "usdt": "USDT to LRC",
+    "xrp": "XRP to KSM",
+    "doge": "DOGE to WAXP",
+    "ltc": "LTC to SAND",
+    "xmr": "XMR to ARRR"
+  },
+  {
+    "btc": "BTC to BCH",
+    "eth": "ETH to SSV",
+    "usdt": "USDT to TEL",
+    "xrp": "XRP to SOL",
+    "doge": "DOGE to HIVE",
+    "ltc": "LTC to KCS",
+    "xmr": "XMR to SLP"
+  },
+  {
+    "btc": "BTC to YCC",
+    "eth": "ETH to POA",
+    "usdt": "USDT to RCN",
+    "xrp": "XRP to HIVE",
+    "doge": "DOGE to CTSI",
+    "ltc": "LTC to TFUEL",
+    "xmr": "XMR to BRISE"
+  },
+  {
+    "btc": "BTC to DASH",
+    "eth": "ETH to DAG",
+    "usdt": "USDT to ZIL",
+    "xrp": "XRP to DOT",
+    "doge": "DOGE to AVA",
+    "ltc": "LTC to HNT",
+    "xmr": "XMR to XEC"
+  },
+  {
+    "btc": "BTC to HBAR",
+    "eth": "ETH to HBAR",
+    "usdt": "USDT to EURS",
+    "xrp": "XRP to RUNE",
+    "doge": "DOGE to FIO",
+    "ltc": "LTC to NEAR",
+    "xmr": "XMR to ERG"
+  },
+  {
+    "btc": "BTC to CELO",
+    "eth": "ETH to BLOK",
+    "usdt": "USDT to ADA",
+    "xrp": "XRP to YFII",
+    "doge": "DOGE to SOL",
+    "ltc": "LTC to AVAX",
+    "xmr": "XMR to DYDX"
+  },
+  {
+    "btc": "BTC to XRP",
+    "eth": "ETH to BUSD",
+    "usdt": "USDT to TUSD",
+    "xrp": "XRP to EGLD",
+    "doge": "DOGE to WBTC",
+    "ltc": "LTC to CTXC",
+    "xmr": "XMR to GALA"
+  },
+  {
+    "btc": "BTC to MATIC",
+    "eth": "ETH to MATIC",
+    "usdt": "USDT to USDC",
+    "xrp": "XRP to SUSHI",
+    "doge": "DOGE to UNI",
+    "ltc": "LTC to GRT",
+    "xmr": "XMR to LUNC"
+  },
+  {
+    "btc": "BTC to UNI",
+    "eth": "ETH to ZEC",
+    "usdt": "USDT to MKR",
+    "xrp": "XRP to UNI",
+    "doge": "DOGE to SUSHI",
+    "ltc": "LTC to TT",
+    "xmr": "XMR to TRTL"
+  },
+  {
+    "btc": "BTC to XEC",
+    "eth": "ETH to DOGE",
+    "usdt": "USDT to NEXO",
+    "xrp": "XRP to LUNA",
+    "doge": "DOGE to LUNA",
+    "ltc": "LTC to BTCB",
+    "xmr": "XMR to SFMBSC"
+  },
+  {
+    "btc": "BTC to ARK",
+    "eth": "ETH to DNT",
+    "usdt": "USDT to XTZ",
+    "xrp": "XRP to HEX",
+    "doge": "DOGE to PHB",
+    "ltc": "LTC to KLAY"
+  },
+  {
+    "btc": "BTC to TUSD",
+    "eth": "ETH to NEAR",
+    "usdt": "USDT to DAI",
+    "xrp": "XRP to PAXG",
+    "doge": "DOGE to POLS",
+    "ltc": "LTC to CAKE"
+  },
+  {
+    "btc": "BTC to BTT",
+    "eth": "ETH to HOGE",
+    "usdt": "USDT to IOTA",
+    "xrp": "XRP to VRA",
+    "doge": "DOGE to TFUEL",
+    "ltc": "LTC to VTHO"
+  },
+  {
+    "btc": "BTC to NIM",
+    "eth": "ETH to SHIB",
+    "usdt": "USDT to XVG",
+    "xrp": "XRP to AWC",
+    "doge": "DOGE to COS",
+    "ltc": "LTC to TWT"
+  },
+  {
+    "btc": "BTC to IOTX",
+    "eth": "ETH to KISHU",
+    "usdt": "USDT to ONG",
+    "xrp": "XRP to ANKR",
+    "doge": "DOGE to KCS",
+    "ltc": "LTC to CELO"
+  },
+  {
+    "btc": "BTC to LOOM",
+    "eth": "ETH to IOTX",
+    "usdt": "USDT to FET",
+    "xrp": "XRP to IDEX",
+    "doge": "DOGE to SAND",
+    "ltc": "LTC to ARRR"
+  },
+  {
+    "btc": "BTC to RFR",
+    "eth": "ETH to MITH",
+    "usdt": "USDT to BSV",
+    "xrp": "XRP to INJ",
+    "doge": "DOGE to HNT",
+    "ltc": "LTC to KISHU"
+  },
+  {
+    "btc": "BTC to LSK",
+    "eth": "ETH to BTT",
+    "usdt": "USDT to HOT",
+    "xrp": "XRP to HNT",
+    "doge": "DOGE to AXS",
+    "ltc": "LTC to LPT"
+  },
+  {
+    "btc": "BTC to BCD",
+    "eth": "ETH to NANO",
+    "usdt": "USDT to HT",
+    "xrp": "XRP to AUDIO",
+    "doge": "DOGE to TT",
+    "ltc": "LTC to XCH"
+  },
+  {
+    "btc": "BTC to GUSD",
+    "eth": "ETH to SMART",
+    "usdt": "USDT to THETA",
+    "xrp": "XRP to AXS",
+    "doge": "DOGE to DF",
+    "ltc": "LTC to XDC"
+  },
+  {
+    "btc": "BTC to ONION",
+    "eth": "ETH to ABYSS",
+    "usdt": "USDT to SNX",
+    "xrp": "XRP to ROSE",
+    "doge": "DOGE to GRT",
+    "ltc": "LTC to LCX"
+  },
+  {
+    "btc": "BTC to DGB",
+    "eth": "ETH to RFR",
+    "usdt": "USDT to CRO",
+    "xrp": "XRP to XAUT",
+    "doge": "DOGE to KLAY",
+    "ltc": "LTC to BRISE"
+  },
+  {
+    "btc": "BTC to ARDR",
+    "eth": "ETH to STEEM",
+    "usdt": "USDT to BEAM",
+    "xrp": "XRP to DAG",
+    "doge": "DOGE to BTCB",
+    "ltc": "LTC to MBOX"
+  },
+  {
+    "btc": "BTC to NXT",
+    "eth": "ETH to DASH",
+    "usdt": "USDT to CHR",
+    "xrp": "XRP to 1INCH",
+    "doge": "DOGE to DAO",
+    "ltc": "LTC to ERG"
+  },
+  {
+    "btc": "BTC to STEEM",
+    "eth": "ETH to ARDR",
+    "usdt": "USDT to ALGO",
+    "xrp": "XRP to SKL",
+    "doge": "DOGE to REEF",
+    "ltc": "LTC to GALA"
+  },
+  {
+    "btc": "BTC to BNT",
+    "eth": "ETH to VET",
+    "usdt": "USDT to WAXP",
+    "xrp": "XRP to ORBS",
+    "doge": "DOGE to VTHO",
+    "ltc": "LTC to FLOKI"
+  },
+  {
+    "btc": "BTC to PAY",
+    "eth": "ETH to MLN",
+    "usdt": "USDT to BUSD",
+    "xrp": "XRP to KLAY",
+    "doge": "DOGE to FLOW",
+    "ltc": "LTC to SPELL"
+  },
+  {
+    "btc": "BTC to RLC",
+    "eth": "ETH to BNT",
+    "usdt": "USDT to TOMO",
+    "xrp": "XRP to WOO",
+    "doge": "DOGE to HOGE",
+    "ltc": "LTC to APE"
+  },
+  {
+    "btc": "BTC to PIVX",
+    "eth": "ETH to DCR",
+    "usdt": "USDT to HBAR",
+    "xrp": "XRP to REEF",
+    "doge": "DOGE to FUSE",
+    "ltc": "LTC to MUE"
+  },
+  {
+    "btc": "BTC to QTUM",
+    "eth": "ETH to USDT",
+    "usdt": "USDT to KAVA",
+    "xrp": "XRP to FIRO",
+    "doge": "DOGE to KEANU",
+    "ltc": "LTC to O3"
+  },
+  {
+    "btc": "BTC to BAT",
+    "eth": "ETH to BAT",
+    "usdt": "USDT to FTT",
+    "xrp": "XRP to LGCY",
+    "doge": "DOGE to XDC"
+  },
+  {
+    "btc": "BTC to DCR",
+    "eth": "ETH to LUN",
+    "usdt": "USDT to KSM",
+    "xrp": "XRP to TWT",
+    "doge": "DOGE to RNDR"
+  },
+  {
+    "btc": "BTC to XLM",
+    "eth": "ETH to PIVX",
+    "usdt": "USDT to CTSI",
+    "xrp": "XRP to PERP",
+    "doge": "DOGE to ALPACA"
+  },
+  {
+    "btc": "BTC to AE",
+    "eth": "ETH to RLC",
+    "usdt": "USDT to SRM",
+    "xrp": "XRP to FUSE",
+    "doge": "DOGE to XEC"
+  },
+  {
+    "btc": "BTC to BTG",
+    "eth": "ETH to WAVES",
+    "usdt": "USDT to UNI",
+    "xrp": "XRP to XCH",
+    "doge": "DOGE to KDA"
+  },
+  {
+    "btc": "BTC to ETC",
+    "eth": "ETH to EOS",
+    "usdt": "USDT to YFI",
+    "xrp": "XRP to SHIB",
+    "doge": "DOGE to MOVR"
+  },
+  {
+    "btc": "BTC to CVC",
+    "eth": "ETH to SYS",
+    "usdt": "USDT to DOT",
+    "xrp": "XRP to ICP",
+    "doge": "DOGE to GALA"
+  },
+  {
+    "btc": "BTC to SYS",
+    "eth": "ETH to BTG",
+    "usdt": "USDT to BAL",
+    "xrp": "XRP to CSPR",
+    "doge": "DOGE to RACA"
+  },
+  {
+    "btc": "BTC to EOS",
+    "eth": "ETH to XLM",
+    "usdt": "USDT to EGLD",
+    "xrp": "XRP to XDC",
+    "doge": "DOGE to ILV"
+  },
+  {
+    "btc": "BTC to ONT",
+    "eth": "ETH to ONT",
+    "usdt": "USDT to CKB",
+    "xrp": "XRP to C98",
+    "doge": "DOGE to RARI"
+  },
+  {
+    "btc": "BTC to STORJ",
+    "eth": "ETH to STORJ",
+    "usdt": "USDT to PAXG",
+    "xrp": "XRP to XYM",
+    "doge": "DOGE to IMX"
+  },
+  {
+    "btc": "BTC to DNT",
+    "eth": "ETH to REP",
+    "usdt": "USDT to TFUEL",
+    "xrp": "XRP to RAY",
+    "doge": "DOGE to ZINU"
+  },
+  {
+    "btc": "BTC to AMP",
+    "eth": "ETH to XEM",
+    "usdt": "USDT to ANKR",
+    "xrp": "XRP to TRIBE",
+    "doge": "DOGE to SPI"
+  },
+  {
+    "btc": "BTC to ADX",
+    "eth": "ETH to ETC",
+    "usdt": "USDT to SAND",
+    "xrp": "XRP to MBOX",
+    "doge": "DOGE to PORTO"
+  },
+  {
+    "btc": "BTC to PPT",
+    "eth": "ETH to DENT",
+    "usdt": "USDT to CRV",
+    "xrp": "XRP to XEC",
+    "doge": "DOGE to DOBO"
+  },
+  {
+    "btc": "BTC to ZRX",
+    "eth": "ETH to ADX",
+    "usdt": "USDT to INJ",
+    "xrp": "XRP to ERG",
+    "doge": "DOGE to STAKE"
+  },
+  {
+    "btc": "BTC to FUN",
+    "eth": "ETH to MYST",
+    "usdt": "USDT to NEAR",
+    "xrp": "XRP to GALA",
+    "doge": "DOGE to HERO"
+  },
+  {
+    "btc": "BTC to OAX",
+    "eth": "ETH to MTL",
+    "usdt": "USDT to CTK",
+    "xrp": "XRP to FLOKI",
+    "doge": "DOGE to BIX"
+  },
+  {
+    "btc": "BTC to POWR",
+    "eth": "ETH to OMG",
+    "usdt": "USDT to AXS",
+    "xrp": "XRP to BNX",
+    "doge": "DOGE to GAME"
+  },
+  {
+    "btc": "BTC to SUB",
+    "eth": "ETH to TKN",
+    "usdt": "USDT to XVS",
+    "xrp": "XRP to MC"
+  },
+  {
+    "btc": "BTC to SALT",
+    "eth": "ETH to SALT",
+    "usdt": "USDT to ALPHA",
+    "xrp": "XRP to XNO"
+  },
+  {
+    "btc": "BTC to WTC",
+    "eth": "ETH to LRC",
+    "usdt": "USDT to TRAC",
+    "xrp": "XRP to APE"
+  },
+  {
+    "btc": "BTC to LINK",
+    "eth": "ETH to ENJ",
+    "usdt": "USDT to GRT",
+    "xrp": "XRP to CEEK"
+  },
+  {
+    "btc": "BTC to KNC",
+    "eth": "ETH to POWR",
+    "usdt": "USDT to 1INCH",
+    "xrp": "XRP to LUNC"
+  },
+  {
+    "btc": "BTC to REQ",
+    "eth": "ETH to LINK",
+    "usdt": "USDT to TT",
+    "xrp": "XRP to ETHW"
+  },
+  {
+    "btc": "BTC to AST",
+    "eth": "ETH to MANA",
+    "usdt": "USDT to KLAY",
+    "xrp": "XRP to ID"
+  },
+  {
+    "btc": "BTC to NULS",
+    "eth": "ETH to RCN",
+    "usdt": "USDT to CELO",
+    "xrp": "XRP to BLUR"
+  },
+  {
+    "btc": "BTC to MANA",
+    "eth": "ETH to POE",
+    "usdt": "USDT to TWT",
+    "xrp": "XRP to SFMBSC"
+  },
+  {
+    "btc": "BTC to ICX",
+    "eth": "ETH to UTK",
+    "usdt": "USDT to FIRO",
+    "xrp": "XRP to POLY"
+  },
+  {
+    "btc": "BTC to POE",
+    "eth": "ETH to IOST",
+    "usdt": "USDT to CAKE",
+    "xrp": "XRP to XDB"
+  },
+  {
+    "btc": "BTC to VIB",
+    "eth": "ETH to NULS",
+    "usdt": "USDT to SFP",
+    "xrp": "XRP to WXT"
+  },
+  {
+    "btc": "BTC to PNT",
+    "eth": "ETH to TEL",
+    "usdt": "USDT to POND",
+    "xrp": "XRP to XOR"
+  },
+  {
+    "btc": "BTC to DGTX",
+    "eth": "ETH to ZIL",
+    "usdt": "USDT to ALICE",
+    "xrp": "XRP to DBC"
+  },
+  {
+    "btc": "BTC to ZIL",
+    "eth": "ETH to ICX",
+    "usdt": "USDT to FLUX"
+  },
+  {
+    "btc": "BTC to TEL",
+    "eth": "ETH to NGC",
+    "usdt": "USDT to PERP"
+  },
+  {
+    "btc": "BTC to NEXO",
+    "eth": "ETH to TUSD",
+    "usdt": "USDT to TLM"
+  },
+  {
+    "btc": "BTC to NGC",
+    "eth": "ETH to USDC",
+    "usdt": "USDT to ICP"
+  },
+  {
+    "btc": "BTC to GRS",
+    "eth": "ETH to GRS",
+    "usdt": "USDT to MDX"
+  },
+  {
+    "btc": "BTC to XVG",
+    "eth": "ETH to DAI",
+    "usdt": "USDT to XHV"
+  },
+  {
+    "btc": "BTC to MKR",
+    "eth": "ETH to EURS",
+    "usdt": "USDT to TORN"
+  },
+  {
+    "btc": "BTC to EURS",
+    "eth": "ETH to MKR",
+    "usdt": "USDT to CNS"
+  },
+  {
+    "btc": "BTC to IOTA",
+    "eth": "ETH to BCH",
+    "usdt": "USDT to TRIBE"
+  },
+  {
+    "btc": "BTC to ONG",
+    "eth": "ETH to RVN",
+    "usdt": "USDT to BRISE"
+  },
+  {
+    "btc": "BTC to VTC",
+    "eth": "ETH to IOTA",
+    "usdt": "USDT to RAD"
+  },
+  {
+    "btc": "BTC to SC",
+    "eth": "ETH to ONG",
+    "usdt": "USDT to ERG"
+  },
+  {
+    "btc": "BTC to FET",
+    "eth": "ETH to TNB",
+    "usdt": "USDT to MBOX"
+  },
+  {
+    "btc": "BTC to HOT",
+    "eth": "ETH to ATOM",
+    "usdt": "USDT to GALA"
+  },
+  {
+    "btc": "BTC to QNT",
+    "eth": "ETH to QNT",
+    "usdt": "USDT to DYDX"
+  },
+  {
+    "btc": "BTC to ATOM",
+    "eth": "ETH to HT",
+    "usdt": "USDT to CHESS"
+  },
+  {
+    "btc": "BTC to THETA",
+    "eth": "ETH to SC",
+    "usdt": "USDT to ELON"
+  },
+  {
+    "btc": "BTC to CRO",
+    "eth": "ETH to ONE",
+    "usdt": "USDT to PEOPLE"
+  },
+  {
+    "btc": "BTC to REN",
+    "eth": "ETH to CELR",
+    "usdt": "USDT to DAR"
+  },
+  {
+    "btc": "BTC to HT",
+    "eth": "ETH to THETA",
+    "usdt": "USDT to GMT"
+  },
+  {
+    "btc": "BTC to CELR",
+    "eth": "ETH to CHR",
+    "usdt": "USDT to OP"
+  },
+  {
+    "btc": "BTC to ALGO",
+    "eth": "ETH to ALGO",
+    "usdt": "USDT to HEX"
+  },
+  {
+    "btc": "BTC to VIDT",
+    "eth": "ETH to CRO",
+    "usdt": "USDT to NEBL"
+  },
+  {
+    "btc": "BTC to BEAM",
+    "eth": "ETH to RSR",
+    "usdt": "USDT to POLY"
+  },
+  {
+    "btc": "BTC to BUSD",
+    "eth": "ETH to BEAM"
+  },
+  {
+    "btc": "BTC to TOMO",
+    "eth": "ETH to CHZ"
+  },
+  {
+    "btc": "BTC to CHZ",
+    "eth": "ETH to ARPA"
+  },
+  {
+    "btc": "BTC to FTT",
+    "eth": "ETH to VIDT"
+  },
+  {
+    "btc": "BTC to KAVA",
+    "eth": "ETH to WAXP"
+  },
+  {
+    "btc": "BTC to WAXP",
+    "eth": "ETH to CTSI"
+  },
+  {
+    "btc": "BTC to YFI",
+    "eth": "ETH to COMP"
+  },
+  {
+    "btc": "BTC to CTSI",
+    "eth": "ETH to FTT"
+  },
+  {
+    "btc": "BTC to RUNE",
+    "eth": "ETH to AVA"
+  },
+  {
+    "btc": "BTC to KSM",
+    "eth": "ETH to FIO"
+  },
+  {
+    "btc": "BTC to BAL",
+    "eth": "ETH to MDT"
+  },
+  {
+    "btc": "BTC to AVA",
+    "eth": "ETH to KSM"
+  },
+  {
+    "btc": "BTC to FIO",
+    "eth": "ETH to UNI"
+  },
+  {
+    "btc": "BTC to EGLD",
+    "eth": "ETH to BAL"
+  },
+  {
+    "btc": "BTC to SCRT",
+    "eth": "ETH to WBTC"
+  },
+  {
+    "btc": "BTC to YFII",
+    "eth": "ETH to SCRT"
+  },
+  {
+    "btc": "BTC to SRM",
+    "eth": "ETH to AAVE"
+  },
+  {
+    "btc": "BTC to SUSHI",
+    "eth": "ETH to EGLD"
+  },
+  {
+    "btc": "BTC to JST",
+    "eth": "ETH to OKB"
+  },
+  {
+    "btc": "BTC to DOT",
+    "eth": "ETH to UBT"
+  },
+  {
+    "btc": "BTC to UMA",
+    "eth": "ETH to SRK"
+  },
+  {
+    "btc": "BTC to AAVE",
+    "eth": "ETH to RPL"
+  },
+  {
+    "btc": "BTC to GT",
+    "eth": "ETH to SUSD"
+  },
+  {
+    "btc": "BTC to HEX",
+    "eth": "ETH to PAXG"
+  },
+  {
+    "btc": "BTC to OKB",
+    "eth": "ETH to VRA"
+  },
+  {
+    "btc": "BTC to PPC",
+    "eth": "ETH to DOV"
+  },
+  {
+    "btc": "BTC to POLS",
+    "eth": "ETH to TFUEL"
+  },
+  {
+    "btc": "BTC to PHB",
+    "eth": "ETH to SOLVE"
+  },
+  {
+    "btc": "BTC to OGN",
+    "eth": "ETH to CKB"
+  },
+  {
+    "btc": "BTC to DOV",
+    "eth": "ETH to IDEX"
+  },
+  {
+    "btc": "BTC to ANKR",
+    "eth": "ETH to KCS"
+  },
+  {
+    "btc": "BTC to CKB",
+    "eth": "ETH to CRV"
+  },
+  {
+    "btc": "BTC to VGX",
+    "eth": "ETH to SAND"
+  },
+  {
+    "btc": "BTC to VRA",
+    "eth": "ETH to HNT"
+  },
+  {
+    "btc": "BTC to TFUEL",
+    "eth": "ETH to AXS"
+  },
+  {
+    "btc": "BTC to PAXG",
+    "eth": "ETH to AUDIO"
+  },
+  {
+    "btc": "BTC to CRV",
+    "eth": "ETH to XAUT"
+  },
+  {
+    "btc": "BTC to IDEX",
+    "eth": "ETH to ALPHA"
+  },
+  {
+    "btc": "BTC to SAND",
+    "eth": "ETH to XVS"
+  },
+  {
+    "btc": "BTC to HNT",
+    "eth": "ETH to GLM"
+  },
+  {
+    "btc": "BTC to SWRV",
+    "eth": "ETH to TT"
+  },
+  {
+    "btc": "BTC to INJ",
+    "eth": "ETH to SKL"
+  },
+  {
+    "btc": "BTC to KP3R",
+    "eth": "ETH to GRT"
+  },
+  {
+    "btc": "BTC to AXS",
+    "eth": "ETH to 1INCH"
+  },
+  {
+    "btc": "BTC to NEAR",
+    "eth": "ETH to TRAC"
+  },
+  {
+    "btc": "BTC to AUDIO",
+    "eth": "ETH to NOIA"
+  },
+  {
+    "btc": "BTC to XVS",
+    "eth": "ETH to GHST"
+  },
+  {
+    "btc": "BTC to HBD",
+    "eth": "ETH to BADGER"
+  },
+  {
+    "btc": "BTC to ROOBEE",
+    "eth": "ETH to TRU"
+  },
+  {
+    "btc": "BTC to GLM",
+    "eth": "ETH to WOO"
+  },
+  {
+    "btc": "BTC to GRT",
+    "eth": "ETH to FIRO"
+  },
+  {
+    "btc": "BTC to TT",
+    "eth": "ETH to TWT"
+  },
+  {
+    "btc": "BTC to DAG",
+    "eth": "ETH to DAO"
+  },
+  {
+    "btc": "BTC to 1INCH",
+    "eth": "ETH to LGCY"
+  },
+  {
+    "btc": "BTC to TRAC",
+    "eth": "ETH to CAKE"
+  },
+  {
+    "btc": "BTC to STC",
+    "eth": "ETH to FXS"
+  },
+  {
+    "btc": "BTC to GTC",
+    "eth": "ETH to FLUX"
+  },
+  {
+    "btc": "BTC to KLAY",
+    "eth": "ETH to UOS"
+  },
+  {
+    "btc": "BTC to BTCST",
+    "eth": "ETH to PERP"
+  },
+  {
+    "btc": "BTC to BADGER",
+    "eth": "ETH to ARRR"
+  },
+  {
+    "btc": "BTC to XYO",
+    "eth": "ETH to AUCTION"
+  },
+  {
+    "btc": "BTC to FIRO",
+    "eth": "ETH to TLM"
+  },
+  {
+    "btc": "BTC to VTHO",
+    "eth": "ETH to LPT"
+  },
+  {
+    "btc": "BTC to TWT",
+    "eth": "ETH to XCH"
+  },
+  {
+    "btc": "BTC to LIT",
+    "eth": "ETH to MDX"
+  },
+  {
+    "btc": "BTC to CAKE",
+    "eth": "ETH to AGIX"
+  },
+  {
+    "btc": "BTC to ALICE",
+    "eth": "ETH to XDC"
+  },
+  {
+    "btc": "BTC to PERP",
+    "eth": "ETH to SLP"
+  },
+  {
+    "btc": "BTC to MASK",
+    "eth": "ETH to ATA"
+  },
+  {
+    "btc": "BTC to FLUX",
+    "eth": "ETH to LCX"
+  },
+  {
+    "btc": "BTC to EPS",
+    "eth": "ETH to XYM"
+  },
+  {
+    "btc": "BTC to PUNDIX",
+    "eth": "ETH to C98"
+  },
+  {
+    "btc": "BTC to UOS",
+    "eth": "ETH to ACH"
+  },
+  {
+    "btc": "BTC to FLOW",
+    "eth": "ETH to CUDOS"
+  },
+  {
+    "btc": "BTC to DEC",
+    "eth": "ETH to RNDR"
+  },
+  {
+    "btc": "BTC to STETH",
+    "eth": "ETH to PLA"
+  },
+  {
+    "btc": "BTC to AUCTION",
+    "eth": "ETH to ERG"
+  },
+  {
+    "btc": "BTC to TLM",
+    "eth": "ETH to MBOX"
+  },
+  {
+    "btc": "BTC to SUKU",
+    "eth": "ETH to KDA"
+  },
+  {
+    "btc": "BTC to MIR",
+    "eth": "ETH to MOVR"
+  },
+  {
+    "btc": "BTC to ICP",
+    "eth": "ETH to DYDX"
+  },
+  {
+    "btc": "BTC to XCH",
+    "eth": "ETH to USDP"
+  },
+  {
+    "btc": "BTC to HOGE",
+    "eth": "ETH to NAFT"
+  },
+  {
+    "btc": "BTC to FUSE",
+    "eth": "ETH to RACA"
+  },
+  {
+    "btc": "BTC to KISHU",
+    "eth": "ETH to BELT"
+  },
+  {
+    "btc": "BTC to LPT",
+    "eth": "ETH to YGG"
+  },
+  {
+    "btc": "BTC to CSPR",
+    "eth": "ETH to SPS"
+  },
+  {
+    "btc": "BTC to MDX",
+    "eth": "ETH to BETA"
+  },
+  {
+    "btc": "BTC to KEANU",
+    "eth": "ETH to QRDO"
+  },
+  {
+    "btc": "BTC to ATA",
+    "eth": "ETH to FLOKI"
+  },
+  {
+    "btc": "BTC to XDC",
+    "eth": "ETH to LEASH"
+  },
+  {
+    "btc": "BTC to AGIX",
+    "eth": "ETH to ENS"
+  },
+  {
+    "btc": "BTC to SLP",
+    "eth": "ETH to PEAK"
+  },
+  {
+    "btc": "BTC to WISE",
+    "eth": "ETH to JASMY"
+  },
+  {
+    "btc": "BTC to BOND",
+    "eth": "ETH to PIT"
+  },
+  {
+    "btc": "BTC to ERN",
+    "eth": "ETH to STARL"
+  },
+  {
+    "btc": "BTC to TORN",
+    "eth": "ETH to MC"
+  },
+  {
+    "btc": "BTC to BAKE",
+    "eth": "ETH to ZINU"
+  },
+  {
+    "btc": "BTC to STAK",
+    "eth": "ETH to ALCX"
+  },
+  {
+    "btc": "BTC to LCX",
+    "eth": "ETH to DAR"
+  },
+  {
+    "btc": "BTC to C98",
+    "eth": "ETH to DOBO"
+  },
+  {
+    "btc": "BTC to XYM",
+    "eth": "ETH to BICO"
+  },
+  {
+    "btc": "BTC to MINA",
+    "eth": "ETH to VLX"
+  },
+  {
+    "btc": "BTC to CNS",
+    "eth": "ETH to POODL"
+  },
+  {
+    "btc": "BTC to BRISE",
+    "eth": "ETH to EFI"
+  },
+  {
+    "btc": "BTC to RNDR",
+    "eth": "ETH to CHEETAH"
+  },
+  {
+    "btc": "BTC to TRIBE",
+    "eth": "ETH to SHINJA"
+  },
+  {
+    "btc": "BTC to CUDOS",
+    "eth": "ETH to LOKA"
+  },
+  {
+    "btc": "BTC to ALPACA",
+    "eth": "ETH to GMT"
+  },
+  {
+    "btc": "BTC to USDP",
+    "eth": "ETH to APE"
+  },
+  {
+    "btc": "BTC to MBOX",
+    "eth": "ETH to GAL"
+  },
+  {
+    "btc": "BTC to ERG",
+    "eth": "ETH to OP"
+  },
+  {
+    "btc": "BTC to RLY",
+    "eth": "ETH to CULT"
+  },
+  {
+    "btc": "BTC to KLEE",
+    "eth": "ETH to VOLT"
+  },
+  {
+    "btc": "BTC to EQX",
+    "eth": "ETH to DERC"
+  },
+  {
+    "btc": "BTC to GALA",
+    "eth": "ETH to ETHW"
+  },
+  {
+    "btc": "BTC to XPRT",
+    "eth": "ETH to PEPE"
+  },
+  {
+    "btc": "BTC to BELT",
+    "eth": "ETH to WAN"
+  },
+  {
+    "btc": "BTC to CHESS",
+    "eth": "ETH to REV3L"
+  },
+  {
+    "btc": "BTC to BTRST",
+    "eth": "ETH to BOLT"
+  },
+  {
+    "btc": "BTC to NFT"
+  },
+  {
+    "btc": "BTC to LEASH"
+  },
+  {
+    "btc": "BTC to JASMY"
+  },
+  {
+    "btc": "BTC to BLOK"
+  },
+  {
+    "btc": "BTC to FLOKI"
+  },
+  {
+    "btc": "BTC to ENS"
+  },
+  {
+    "btc": "BTC to ELON"
+  },
+  {
+    "btc": "BTC to IMX"
+  },
+  {
+    "btc": "BTC to PEAK"
+  },
+  {
+    "btc": "BTC to ZINU"
+  },
+  {
+    "btc": "BTC to PORTO"
+  },
+  {
+    "btc": "BTC to DAR"
+  },
+  {
+    "btc": "BTC to ALCX"
+  },
+  {
+    "btc": "BTC to VLX"
+  },
+  {
+    "btc": "BTC to POODL"
+  },
+  {
+    "btc": "BTC to BICO"
+  },
+  {
+    "btc": "BTC to DOGEDASH"
+  },
+  {
+    "btc": "BTC to LOOKS"
+  },
+  {
+    "btc": "BTC to AVN"
+  },
+  {
+    "btc": "BTC to XNO"
+  },
+  {
+    "btc": "BTC to SFUND"
+  },
+  {
+    "btc": "BTC to APE"
+  },
+  {
+    "btc": "BTC to GMT"
+  },
+  {
+    "btc": "BTC to GAL"
+  },
+  {
+    "btc": "BTC to OP"
+  },
+  {
+    "btc": "BTC to VOLT"
+  },
+  {
+    "btc": "BTC to PSL"
+  },
+  {
+    "btc": "BTC to DERC"
+  },
+  {
+    "btc": "BTC to AKITA"
+  },
+  {
+    "btc": "BTC to BONE"
+  },
+  {
+    "btc": "BTC to ETHW"
+  },
+  {
+    "btc": "BTC to QUACK"
+  },
+  {
+    "btc": "BTC to ID"
+  },
+  {
+    "btc": "BTC to TOMI"
+  },
+  {
+    "btc": "BTC to KAS"
+  },
+  {
+    "btc": "BTC to PEPE"
+  },
+  {
+    "btc": "BTC to RBTC"
+  },
+  {
+    "btc": "BTC to RDD"
+  },
+  {
+    "btc": "BTC to APPC"
+  },
+  {
+    "btc": "BTC to SFMBSC"
+  },
+  {
+    "btc": "BTC to NXS"
+  },
+  {
+    "btc": "BTC to BTM"
+  },
+  {
+    "btc": "BTC to ADK"
+  },
+  {
+    "btc": "BTC to GBX"
+  },
+  {
+    "btc": "BTC to PRCY"
+  },
+  {
+    "btc": "BTC to NEBL"
+  },
+  {
+    "btc": "BTC to ATRI"
+  },
+  {
+    "btc": "BTC to SKY"
+  },
+  {
+    "btc": "BTC to ACM"
+  },
+  {
+    "btc": "BTC to SMT"
+  },
+  {
+    "btc": "BTC to DOCK"
+  },
+  {
+    "btc": "BTC to COTI"
+  },
+  {
+    "btc": "BTC to CPOOL"
+  },
+  {
+    "btc": "BTC to METIS"
+  }
+]

@@ -1,0 +1,146 @@
+.pairs {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.pairs-header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  padding: 20px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--black, #101010);
+  z-index: 9999;
+}
+
+.pairs-nav-list {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 40px;
+}
+
+.pairs-nav-list > li > a {
+  color: #e4e4e4;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.pairs-nav-list > li > a:hover {
+  color: #e9168d;
+}
+
+.pairs-nav-list > li > a.active {
+  color: #e9168d;
+}
+
+.pairs-nav-list > li > div > button {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  border: none;
+  color: #e4e4e4;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  gap: 5px;
+}
+
+.nav-search {
+  width: 112px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 0 10px;
+  border-radius: 8px;
+  background: #1d1d1d;
+}
+
+.nav-search > svg {
+  width: 15px;
+  height: 15px;
+  fill: #707d87;
+}
+
+.nav-search > input {
+  width: calc(100% - 25px);
+  height: 100%;
+  background: transparent;
+  border: none;
+  color: #707d87;
+  font-size: 12px;
+  outline: none;
+}
+
+.nav-search > input::placeholder {
+  color: #707d87;
+}
+
+.pairs-content {
+  width: 100%;
+  padding: 20px 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.pairs-content > h1 {
+  color: var(--grey-6, #e4e4e4);
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+.pairs-list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 36px;
+}
+
+.pairs-list-item {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+}
+
+.pairs-list-item__header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.pairs-list-item__header > h2 span {
+  color: var(--grey-6, #e4e4e4);
+  font-size: 24px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.pairs-list-item__header > h2 i {
+  color: var(--grey-5, #a3a9af);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  padding-left: 20px;
+}
+
+.pairs-list-item__content {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.pairs-list-item__content > a {
+  width: calc((100% - 216px) / 10);
+  color: var(--blue, #25b7eb);
+  font-size: 14px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
